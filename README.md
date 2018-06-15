@@ -6,6 +6,7 @@ This is an implementation of tensor flow object detection API for running it in 
 The video for the same is at :
 
 Download the object_recognition_detection.zip
+Please download the python code for replacing it with the files in the object detection folder!
 
 For running the object detection on image files run the object_detection_tutorial.py
 
